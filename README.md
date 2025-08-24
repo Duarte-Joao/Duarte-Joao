@@ -1,4 +1,5 @@
-<h3 align="center">Olá, tenho 18 anos e atualmente sou um estudante do curso de Desenvolvimento de Sistemas pelo Instituto de Ciência e Técnologia de Santa Catarina (IFSC). <br>Sinta-se a vontade para explorar meus repositórios. </h3>
+<h3 align="center">Hello, I'm 18 years old and currently studying Systems Development at the Santa Catarina Institute of Science and Technology (IFSC).
+Feel free to explore my repositories. </h3>
 
 ---
 
