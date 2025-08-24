@@ -1,4 +1,4 @@
-<h3 align="center">Hello, I'm 18 years old and currently studying Systems Development at the Santa Catarina Institute of Science and Technology (IFSC).
+<h3 align="center">Hello, I'm 18 years old, I'm from Brazil and currently studying Systems Development at the Santa Catarina Institute of Science and Technology (IFSC).
 Feel free to explore my repositories. </h3>
 
 ---
