@@ -32,7 +32,7 @@ Feel free to explore my repositories. </h3>
 
 ---
 
-## Contato
+### Contato
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cttjoaoeduardo@gmail.com" target="_blank" >
@@ -45,8 +45,7 @@ Feel free to explore my repositories. </h3>
 
 ---
 
-
-##  GitHub Stats
+###  GitHub Stats
 <div align="center">
   <a href= "https://github.com/Duarte-Joao">
   <img src="https://github-readme-stats.vercel.app/api?username=Duarte-Joao&show_icons=true&theme=merko">
