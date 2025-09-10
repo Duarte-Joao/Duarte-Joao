@@ -28,8 +28,6 @@ Feel free to explore my repositories. </h3>
   <img width="15" />
   <img src="https://fekir.info/multimedia/git.png" height="50" alt="Git" />
   <img width="15" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-  <img width="15" />
 </div>
 
 ---
