@@ -22,8 +22,6 @@ Feel free to explore my repositories. </h3>
   <img width="15" />
   <img href="https://developer.mozilla.org/en-US/docs/Web/CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
   <img width="15" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
-  <img width="15" />
   <img href="https://www.python.org/doc/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img width="15" />
   <img href="https://docs.oracle.com/en/java/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
