@@ -38,7 +38,7 @@ Feel free to explore my repositories. </h3>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cttjoaoeduardo@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.instagram.com/jedu.duart" target="_blank">
+  <a href="https://www.instagram.com/jeduartt" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
