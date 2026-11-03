@@ -1,5 +1,6 @@
-<h3 align="center">Hello, I'm 19 years old, I'm from Brazil and currently studying Systems Development at the Santa Catarina Institute of Science and Technology (IFSC).
-Feel free to explore my repositories. </h3>
+<h3>My name is João Eduardo Dias Duarte, I'm 19 years old, and I am from Santa Catarina, Brazil.
+I graduated from high school at IFSC, with a Technical Course in Information Technology.
+I am currently pursuing a degree in Computer Science at UFFS. I am passionate about technology, automation, software development, and I intend to pursue a career in cybersecurity in the future.
 
 ---
 
